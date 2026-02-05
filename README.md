@@ -2,6 +2,10 @@
 
 A simple and responsive recipe page built with semantic HTML and CSS. This project demonstrates clean structure, accessibility, and readable layout for presenting a single recipe.
 
+## Live Preview
+
+Check out the live version of this Classic-Recipe here: [View Classic-Recipe](https://ceejay332.github.io/Classic-Recipe/)
+
 ## Features
 
 - Clear recipe layout with title and description
