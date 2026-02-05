@@ -32,4 +32,4 @@ A simple and responsive recipe page built with semantic HTML and CSS. This proje
 
    ```bash
 
-   git clone https://github.com/YourUsername/RecipePage.git
+   git clone https://github.com/Ceejay332/RecipePage.git
